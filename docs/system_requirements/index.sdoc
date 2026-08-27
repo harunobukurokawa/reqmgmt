@@ -379,7 +379,7 @@ TYPE: Functional
 COMPONENT: Kernel Version
 TITLE: Kernel version information
 STATEMENT: >>>
-The Zephyr RTOS shall provide kernel version information for the present build.
+The Zephyr RTOS shall provide the kernel version for the present build.
 <<<
 
 [[/SECTION]]
